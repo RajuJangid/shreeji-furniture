@@ -50,11 +50,11 @@ export const projects: Project[] = [
     clientName: "Shree Provision Store",
     category: "Commercial",
     location: "Gotri Road, Vadodara",
-    thumbnail: "https://images.unsplash.com/photo-1571216524388-66258f96bb7b?q=80&w=800",
+    thumbnail: "https://unsplash.com/photos/a-grocery-store-aisle-filled-with-lots-of-food-cg7gpa790OA",
     description: "Heavy-duty wooden and metal display racks for a grocery store. Focused on maximizing storage space while maintaining wide aisles for customer movement.",
     gallery: [
-      "https://images.unsplash.com/photo-1571216524388-66258f96bb7b?q=80&w=1200",
-      "https://images.unsplash.com/photo-1604719312566-b7cb9663481b?q=80&w=1200"
+      "https://unsplash.com/photos/shelves-are-stocked-with-colorful-bags-of-snacks-aBIcYy9bu5o",
+      "https://unsplash.com/photos/yellow-and-green-fruits-on-white-metal-rack-dWzRegf99aA"
     ],
     startDate: "01 Feb 2024",
     endDate: "20 Feb 2024",
