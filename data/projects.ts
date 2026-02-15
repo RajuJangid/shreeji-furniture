@@ -50,11 +50,11 @@ export const projects: Project[] = [
     clientName: "Shree Provision Store",
     category: "Commercial",
     location: "Gotri Road, Vadodara",
-    thumbnail: "https://unsplash.com/photos/a-grocery-store-aisle-filled-with-lots-of-food-cg7gpa790OA",
+    thumbnail: "https://plus.unsplash.com/premium_photo-1664305032567-2c460e29dec1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VwZXJtYXJrZXQlMjBkaXNwbGF5JTIwcmFja3N8ZW58MHx8MHx8fDA%3D",
     description: "Heavy-duty wooden and metal display racks for a grocery store. Focused on maximizing storage space while maintaining wide aisles for customer movement.",
     gallery: [
-      "https://unsplash.com/photos/shelves-are-stocked-with-colorful-bags-of-snacks-aBIcYy9bu5o",
-      "https://unsplash.com/photos/yellow-and-green-fruits-on-white-metal-rack-dWzRegf99aA"
+      "https://images.unsplash.com/photo-1752052029459-adfca386c142?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3VwZXJtYXJrZXQlMjBkaXNwbGF5JTIwcmFja3N8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1605447813584-26aeb3f8e6ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHN1cGVybWFya2V0JTIwZGlzcGxheSUyMHJhY2tzfGVufDB8fDB8fHww"
     ],
     startDate: "01 Feb 2024",
     endDate: "20 Feb 2024",
@@ -123,11 +123,11 @@ export const projects: Project[] = [
     clientName: "Mr. Vikram Desai",
     category: "Residential",
     location: "Vasna-Bhayli Road",
-    thumbnail: "https://images.unsplash.com/photo-1600607687644-c7171b42498b?q=80&w=800",
+    thumbnail: "https://plus.unsplash.com/premium_photo-1661913412680-c274b6fea096?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVudGhvdXNlfGVufDB8fDB8fHww",
     description: "Renovation of an old penthouse into a contemporary living space. We replaced all flooring and redesigned the layout to bring in more natural light.",
     gallery: [
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?q=80&w=1200",
-      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?q=80&w=1200"
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGVudGhvdXNlfGVufDB8fDB8fHww",
+      "https://plus.unsplash.com/premium_photo-1661872731017-f16222b794cf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGVudGhvdXNlfGVufDB8fDB8fHww"
     ],
     startDate: "15 Nov 2023",
     endDate: "20 Feb 2024",
@@ -308,10 +308,10 @@ export const projects: Project[] = [
     clientName: "StartUp Vadodara",
     category: "Commercial",
     location: "Ellora Park",
-    thumbnail: "https://images.unsplash.com/photo-1504384308090-c54be3852f33?q=80&w=800",
+    thumbnail: "https://images.unsplash.com/photo-1659044537787-a2ac4ce1d427?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fENvLVdvcmtpbmclMjBTcGFjZXxlbnwwfHwwfHx8MA%3D%3D",
     description: "Flexible office space with hot desks and private cabins. Industrial look with open ceiling ducts.",
     gallery: [
-      "https://images.unsplash.com/photo-1504384308090-c54be3852f33?q=80&w=1200",
+      "https://images.unsplash.com/photo-1742630394132-cbd951f7d924?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fENvLVdvcmtpbmclMjBTcGFjZXxlbnwwfHwwfHx8MA%3D%3D",
       "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1200"
     ],
     startDate: "15 Jan 2024",
@@ -331,11 +331,11 @@ export const projects: Project[] = [
     clientName: "Mr. Kothari",
     category: "Residential",
     location: "Harni-Warsia Ring Road",
-    thumbnail: "https://images.unsplash.com/photo-1502005229762-cf1e2da0c543?q=80&w=800",
+    thumbnail: "https://plus.unsplash.com/premium_photo-1711412120222-c9ae857c51d6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fDJCSEslMjBNb2Rlcm4lMjBGbGF0fGVufDB8fDB8fHww",
     description: "Complete interior solution for a compact 2BHK. Used space-saving furniture like folding tables and sofa-cum-beds.",
     gallery: [
-      "https://images.unsplash.com/photo-1502005229762-cf1e2da0c543?q=80&w=1200",
-      "https://images.unsplash.com/photo-1534349762913-924996967271?q=80&w=1200"
+      "https://plus.unsplash.com/premium_photo-1711412119767-d0a4de960859?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8MkJISyUyME1vZGVybiUyMEZsYXR8ZW58MHx8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1711412119864-62e9013b0914?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8MkJISyUyME1vZGVybiUyMEZsYXR8ZW58MHx8MHx8fDA%3D"
     ],
     startDate: "01 Feb 2024",
     endDate: "15 March 2024",
@@ -354,10 +354,10 @@ export const projects: Project[] = [
     clientName: "Alankar Jewelers",
     category: "Commercial",
     location: "Mandvi, Vadodara",
-    thumbnail: "https://images.unsplash.com/photo-1582037928769-181f2644ec27?q=80&w=800",
+    thumbnail: "https://images.unsplash.com/photo-1758995115475-7b7d6eb060ba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEx1eHVyeSUyMEpld2VscnklMjBTdG9yZXxlbnwwfHwwfHx8MA%3D%3D",
     description: "Premium interior with velvet finish panels and high-security glass displays. Lighting designed to make gold and diamonds sparkle.",
     gallery: [
-      "https://images.unsplash.com/photo-1582037928769-181f2644ec27?q=80&w=1200",
+      "https://images.unsplash.com/photo-1758995115867-4ef47c98824e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEx1eHVyeSUyMEpld2VscnklMjBTdG9yZXxlbnwwfHwwfHx8MA%3D%3D",
       "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?q=80&w=1200"
     ],
     startDate: "01 Jan 2024",
